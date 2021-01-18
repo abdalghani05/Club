@@ -1,0 +1,12 @@
+C:\Users\anair\source\repos\Club\Club\bin\Debug\Club.exe.config
+C:\Users\anair\source\repos\Club\Club\bin\Debug\Club.exe
+C:\Users\anair\source\repos\Club\Club\bin\Debug\Club.pdb
+C:\Users\anair\source\repos\Club\Club\obj\Debug\Club.csprojAssemblyReference.cache
+C:\Users\anair\source\repos\Club\Club\obj\Debug\Club.Form1.resources
+C:\Users\anair\source\repos\Club\Club\obj\Debug\Club.Properties.Resources.resources
+C:\Users\anair\source\repos\Club\Club\obj\Debug\Club.csproj.GenerateResource.cache
+C:\Users\anair\source\repos\Club\Club\obj\Debug\Club.exe
+C:\Users\anair\source\repos\Club\Club\obj\Debug\Club.pdb
+C:\Users\anair\source\repos\Club\Club\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\anair\source\repos\Club\Club\obj\Debug\Club.csproj.CopyComplete
+C:\Users\anair\source\repos\Club\Club\obj\Debug\Club.Form2.resources
